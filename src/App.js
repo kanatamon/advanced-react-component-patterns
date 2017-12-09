@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Lesson9 from './Improve-Unit-Testability-of-Higher-Order-Components';
+import Lesson9 from './Lesson-9';
 
 class App extends Component {
   render() {
